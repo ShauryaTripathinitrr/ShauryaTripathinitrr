@@ -1,6 +1,8 @@
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
-<h1 align="center">Hi 👋, I'm Shaurya Tripathi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryatripathinitrr&label=Profile%20views&color=0e75b6&style=flat" alt="shauryatripathinitrr" /> </p>
+## ⭐ - Introduction
+
+>Hi, I'm Shaurya Tripathi, a Computer Science and Engineering student at NIT Raipur with a strong passion for Data Structures & Algorithms (DSA), Competitive Programming (CP), and Web Development. I actively solve problems on LeetCode and Codeforces, constantly improving my problem-solving skills. Proficient in C++, JavaScript, and React, I have worked as a Frontend Developer Intern at FASystems, contributing to an e-commerce platform. I love tackling complex challenges, optimizing algorithms, and building efficient solutions. Check out my projects and CP profiles! 🚀
 
 - 👨‍💻 All of my projects are available at [https://shauryatripathinitrr.github.io/PORTFOLIO/](https://shauryatripathinitrr.github.io/PORTFOLIO/)
 
